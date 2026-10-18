@@ -1,0 +1,8 @@
+{
+  "name": "RideWire & Action Intell Master Playbook",
+  "description": "Master Business Binder & Operational Playbook for RideWire LLC & Action Intell featuring 13=1 Unity State Framework, telemetry, and 17-node AI matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
